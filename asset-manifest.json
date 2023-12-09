@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c81db090.css",
-    "main.js": "/static/js/main.c0735bca.js",
-    "static/js/787.774594b4.chunk.js": "/static/js/787.774594b4.chunk.js",
-    "index.html": "/index.html",
-    "main.c81db090.css.map": "/static/css/main.c81db090.css.map",
-    "main.c0735bca.js.map": "/static/js/main.c0735bca.js.map",
-    "787.774594b4.chunk.js.map": "/static/js/787.774594b4.chunk.js.map"
+    "main.css": "/gongjiyeon/blog/static/css/main.c81db090.css",
+    "main.js": "/gongjiyeon/blog/static/js/main.85189ba9.js",
+    "static/js/787.774594b4.chunk.js": "/gongjiyeon/blog/static/js/787.774594b4.chunk.js",
+    "index.html": "/gongjiyeon/blog/index.html",
+    "main.c81db090.css.map": "/gongjiyeon/blog/static/css/main.c81db090.css.map",
+    "main.85189ba9.js.map": "/gongjiyeon/blog/static/js/main.85189ba9.js.map",
+    "787.774594b4.chunk.js.map": "/gongjiyeon/blog/static/js/787.774594b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c81db090.css",
-    "static/js/main.c0735bca.js"
+    "static/js/main.85189ba9.js"
   ]
 }
