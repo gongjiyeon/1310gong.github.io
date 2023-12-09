@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gongjiyeon/blog/static/css/main.c81db090.css",
-    "main.js": "/gongjiyeon/blog/static/js/main.85189ba9.js",
-    "static/js/787.774594b4.chunk.js": "/gongjiyeon/blog/static/js/787.774594b4.chunk.js",
-    "index.html": "/gongjiyeon/blog/index.html",
-    "main.c81db090.css.map": "/gongjiyeon/blog/static/css/main.c81db090.css.map",
-    "main.85189ba9.js.map": "/gongjiyeon/blog/static/js/main.85189ba9.js.map",
-    "787.774594b4.chunk.js.map": "/gongjiyeon/blog/static/js/787.774594b4.chunk.js.map"
+    "main.css": "./blog/static/css/main.c81db090.css",
+    "main.js": "./blog/static/js/main.e211aff3.js",
+    "static/js/787.774594b4.chunk.js": "./blog/static/js/787.774594b4.chunk.js",
+    "index.html": "./blog/index.html",
+    "main.c81db090.css.map": "./blog/static/css/main.c81db090.css.map",
+    "main.e211aff3.js.map": "./blog/static/js/main.e211aff3.js.map",
+    "787.774594b4.chunk.js.map": "./blog/static/js/787.774594b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c81db090.css",
-    "static/js/main.85189ba9.js"
+    "static/js/main.e211aff3.js"
   ]
 }
